@@ -23,7 +23,7 @@ const Contact = () => {
           <p className="font-bold mt-3">E-mail</p>
           <p className="text-xs mt-2 text-gray-600">abc@mail.com</p>
           <p className="font-bold mt-3">Phone</p>
-          <p className="text-xs mt-2 text-gray-600">111-111-111</p>
+          <p className="text-xs mt-2 text-gray-600">000-000-000</p>
         </div>
         <div className="mt-6 flex justify-around">
           <div>
